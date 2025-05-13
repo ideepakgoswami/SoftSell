@@ -2,9 +2,10 @@
 
 SoftSell is a single-page web app made with React and Vite. It is designed for a fictional startup where users can sell or resell unused software licenses.
 
-Inspired by the clean and modern design of https://acquire.com/
+Design inspired by:- https://acquire.com/
 
 ## Live Demo
+https://soft-sell-sepia.vercel.app/
 
 ## Features
 - Hero section with a clear message and CTA
